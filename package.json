@@ -1,0 +1,21 @@
+{
+  "name": "testbestada2",
+  "version": "1.0.0",
+  "description": "\"Applikasi parkir testBestada2\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Muhammad Aji Putra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^6.5.3",
+    "mongoose-delete": "^0.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
